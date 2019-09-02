@@ -1,0 +1,10 @@
+inicio
+    inteiro: a;
+    imprima (" digite  um  valor  para a:");
+    leia(a);
+    se a = 56 então
+        imprima (" igual a 5");
+    senão
+        imprima (" diferente  de 5");
+    fim_se
+fim
